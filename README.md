@@ -1,15 +1,9 @@
-# Aurora X
-Aurora X is a dark material-like theme with blue and purple tones.
+# Based off of Aurora X
+Aurora X is a dark material-like theme with blue and purple tones. Theme has been modified to customize only a few colors.
 
 ## Installation
- 1. Open Extensions on the sidebar
- 2. Search for "**Aurora X**"
- 3. Install it
- 4. Reload the editor
- 5. Press ⌘K + ⌘T
- 6. Pick "**Aurora X**" one from the list and hit enter
- 7. Enjoy! 
 
+Below is the Aurora X theme created by marqu3s10. I just changed a few colors, not my work product.
 ## ScreenShot
 ![Aurora X Theme](https://github.com/marqu3s10/Aurora-X/raw/master/images/screenshot.png)
 
