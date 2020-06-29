@@ -1,5 +1,5 @@
 {
-    "name": "aurora-x",
+    "name": "Clear-DarK-Z",
     "displayName": "Aurora X",
     "description": "Minimalistic looking based on Material Theme",
     "icon": "images/icon.png",
@@ -14,9 +14,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Aurora X",
+                "label": "Clear Dark Z",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Aurora X-color-theme.json"
+                "path": "./themes/Clear-Dark-Z.json"
             }
         ]
     },
